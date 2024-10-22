@@ -1,0 +1,28 @@
+{
+    "logo": "https://i.postimg.cc/LsFPxJjk/EuroWin.png",
+    "affLink": "https://www.vemabet.com/pt?partner=p4843p3512pb8ab#registration",
+    "vipCheckout": "https://chat.whatsapp.com/FqVITjuTYvvDO3ah7tgET2",
+    "banners": {
+        "img2k": "https://i.postimg.cc/bv3N60MG/02Euro.png",
+        "imgcommunity":"https://i.postimg.cc/8CZdgLB7/01.png",
+        "imgvip": "https://i.postimg.cc/LXht9hNN/03.png"
+    },
+    "pageheaderes": {
+        "bonus": "https://i.postimg.cc/L6z2LdFx/bg-zero-One.webp",
+        "lives": "https://i.postimg.cc/zDHJDbtZ/bg-Zero-Two.webp"
+    },
+    "vipcta": "https://i.postimg.cc/dQCjfkX9/vipcta22.png",
+    "telegram": "https://chat.whatsapp.com/FqVITjuTYvvDO3ah7tgET2",
+    "community": "https://chat.whatsapp.com/FqVITjuTYvvDO3ah7tgET2",
+    "memberArea": [{
+        "title": "",
+        "description": "",
+        "thumb": "",
+        "link": ""
+    }],
+    "extrapages": {
+        "bonus": true,
+        "lives": false,
+        "tutorial": false
+    }
+}

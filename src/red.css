@@ -1,0 +1,123 @@
+.bg-gradient {
+    background: linear-gradient(87deg, #FF0000 5.19%, #FF6262 91.04%);
+}
+
+.txt-gradient {
+    background: linear-gradient(87deg, #FF0000 5.19%, #FF6262 91.04%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cr-profit h1 {
+    background: linear-gradient(87deg, #FF0000 5.19%, #FF6262 91.04%);
+    font-size: 14px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.greenGradientText {
+    background: linear-gradient(87deg, #FF0000 5.19%, #FF6262 91.04%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.greenGradientText {
+    background: linear-gradient(87deg, #FF0000 5.19%, #FF6262 91.04%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vipButton {
+    box-shadow: 0px 2px 20px 0px rgba(251, 19, 19, 0.35);
+}
+
+.bg-gradientwhite {
+    background: radial-gradient(141.71% 129.73% at 5.29% -8.33%, #636363 0%, rgba(0, 0, 0, 0.00) 100%);
+}
+
+.cardRoom {
+    cursor: pointer;
+    user-select: none;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(0deg, #1A0000 0%, #050000 100%);
+}
+
+.cr-stroke {
+    width: fit-content;
+    border-radius: 5px;
+    padding: 1px;
+    background: linear-gradient(0deg, #B30000 0%, #1A0000 71.96%);
+}
+
+.cardDenied {
+    background: linear-gradient(0deg, #4B0000 0%, #0A0000 74.47%);
+}
+
+.cardDenied .cardRoom {
+    background: linear-gradient(0deg, #1A0000 0%, #050000 49.8%);
+}
+
+.status-players {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 8px;
+    border-radius: 999px;
+    height: fit-content;
+    background: linear-gradient(87deg, rgba(255, 0, 0, 0.15) 5.19%, rgba(255, 123, 123, 0.15) 91.04%);
+}
+
+.bn-content {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: solid 1px #FF0000;
+    border-radius: 9px 9px 0px 0px;
+    width: 100%;
+    padding: 10px 15px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.86);
+    backdrop-filter: blur(10px);
+}
+
+.bn-selected h3 {
+    color: #FF0000;
+}
+
+.bn-selected svg * {
+    stroke: #FF0000;
+}
+
+.ChatStatus {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 99px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+    background: linear-gradient(0deg, #1A0000 0%, #050000 100%);
+}
+
+#todayMsgDate {
+    margin: 10px 0px;
+    align-self: center;
+    width: fit-content;
+    padding: 5px 11px;
+    border-radius: 999px;
+    background: linear-gradient(0deg, #1A0000 0%, #050000 100%);
+}
+
+.bullsCta {
+    box-shadow: 0px 2px 20px 0px rgba(251, 19, 19, 0.35);
+}
